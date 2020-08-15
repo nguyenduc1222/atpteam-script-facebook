@@ -1,3 +1,4 @@
+alert("ATPSOFTWARE.VN - Giải pháp doanh nghiệp.");
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
